@@ -1,8 +1,9 @@
 # The Four Core Concepts of Coding
 
-This repository contains two main Jupyter Notebooks:
+This repository contains one Jupyter Notebooks:
 * Coding_CoreConcepts.ipynb
-* IDAS_Notebook.ipynb
+
+All other files are supporting materials for documenting this repo.
 
 With this lesson we will practice the basic coding concepts discussed in class:
 
